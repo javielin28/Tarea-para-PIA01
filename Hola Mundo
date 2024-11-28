@@ -1,2 +1,2 @@
-name: Python package
+python
 print("Hola Mundo")
